@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Public API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typicalRussianMan/web-server.git"
+  },
+  "author": "Andrey Skripachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typicalRussianMan/web-server/issues"
+  },
+  "homepage": "https://github.com/typicalRussianMan/web-server#readme"
+}
